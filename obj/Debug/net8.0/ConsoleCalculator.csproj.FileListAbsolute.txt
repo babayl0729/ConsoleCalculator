@@ -1,0 +1,14 @@
+/home/babayl0729/DotNetProjects/ConsoleCalculator/bin/Debug/net8.0/ConsoleCalculator
+/home/babayl0729/DotNetProjects/ConsoleCalculator/bin/Debug/net8.0/ConsoleCalculator.deps.json
+/home/babayl0729/DotNetProjects/ConsoleCalculator/bin/Debug/net8.0/ConsoleCalculator.runtimeconfig.json
+/home/babayl0729/DotNetProjects/ConsoleCalculator/bin/Debug/net8.0/ConsoleCalculator.dll
+/home/babayl0729/DotNetProjects/ConsoleCalculator/bin/Debug/net8.0/ConsoleCalculator.pdb
+/home/babayl0729/DotNetProjects/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/babayl0729/DotNetProjects/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.AssemblyInfoInputs.cache
+/home/babayl0729/DotNetProjects/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.AssemblyInfo.cs
+/home/babayl0729/DotNetProjects/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.csproj.CoreCompileInputs.cache
+/home/babayl0729/DotNetProjects/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.dll
+/home/babayl0729/DotNetProjects/ConsoleCalculator/obj/Debug/net8.0/refint/ConsoleCalculator.dll
+/home/babayl0729/DotNetProjects/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.pdb
+/home/babayl0729/DotNetProjects/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.genruntimeconfig.cache
+/home/babayl0729/DotNetProjects/ConsoleCalculator/obj/Debug/net8.0/ref/ConsoleCalculator.dll
