@@ -6,18 +6,24 @@ Console.WriteLine("Enter 4 for Division.");
 
 int cal;
 cal = Convert.ToInt32(Console.ReadLine());
-if(cal == 1) {
+if(cal == 1) 
+{
     Console.WriteLine($"You entered {cal} = Addition");
 } 
-else if(cal == 2) {
+else if(cal == 2) 
+{
     Console.WriteLine($"You entered {cal} = Subtraction");
 }
-else if(cal == 3) {
+else if(cal == 3) 
+{
     Console.WriteLine($"You entered {cal} = Multiplication");
 }
-else if(cal == 4) {
+else if(cal == 4) 
+{
     Console.WriteLine($"You entered {cal} = Division");
-} else {
+} 
+else 
+{
     Console.WriteLine($"You entered {cal} = Invalid entry.");
     return;
 }
@@ -32,21 +38,26 @@ double num2;
 num2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine($"You entered {num2}");
 
-if(cal == 1) {
+if(cal == 1) 
+{
     Console.WriteLine($"{num1} + {num2}");
     Console.WriteLine($"Sum: {num1 + num2}");
 }
-else if(cal == 2) {
+else if(cal == 2) 
+{
     Console.WriteLine($"{num1} - {num2}");
     Console.WriteLine($"Difference: {num1 - num2}");
 } 
-else if(cal == 3) {
+else if(cal == 3) 
+{
     Console.WriteLine($"{num1} * {num2}");
     Console.WriteLine($"Product: {num1 * num2}");
 }
-else if(cal == 4) {
+else if(cal == 4) 
+{
     Console.WriteLine($"{num1} / {num2}");
     Console.WriteLine($"Dividend: {num1 / num2}");
-} else {
+} 
+else {
     Console.WriteLine("Enter valid num");
 }
